@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "title": "JavaScript",
+      "author": "Paulo",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
