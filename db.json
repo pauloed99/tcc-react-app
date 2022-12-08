@@ -4,6 +4,21 @@
       "title": "JavaScript",
       "author": "Paulo",
       "id": 1
+    },
+    {
+      "title": "TypeScript",
+      "author": "Maria",
+      "id": 2
+    },
+    {
+      "title": "React ",
+      "author": "João",
+      "id": 3
+    },
+    {
+      "title": "Angular",
+      "author": "Natália",
+      "id": 4
     }
   ],
   "profile": {
